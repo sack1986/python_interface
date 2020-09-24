@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8b673d2f-4d5d-4c26-8ec1-77cba1e5e4d7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gqcnBVXtJ34SvuLOBIsEzhFTUQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="PycharmProjects" is-module-sdk="true">
+        <envs>
+          <env key="PythonPath" value="C:\Users\test\PycharmProjects" />
+        </envs>
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="PycharmProjects" />
+        <option name="myEnvs">
+          <map>
+            <entry key="PythonPath" value="C:\Users\test\PycharmProjects" />
+          </map>
+        </option>
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\test\PycharmProjects\untitled3\test_case\model" />
+      <recent name="C:\Users\test\PycharmProjects\untitled3\test_case" />
+      <recent name="C:\Users\test\PycharmProjects\untitled3\test_case\page_object" />
+      <recent name="C:\Users\test\PycharmProjects\untitled3\test_case\page_object\upload" />
+      <recent name="C:\Users\test\PycharmProjects\untitled3\case\model" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\test\PycharmProjects\untitled2\common" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.pytest in test_login_myfdczzxt2.py">
+    <configuration name="run_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PycharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/untitled3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/untitled3/run_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sqlserver" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PycharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/untitled2/common" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/untitled2/common/sqlserver.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_addpractitioner.PractitionerTest.test_add_pactitioner" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="PycharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/untitled3/test_case" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_addpractitioner.PractitionerTest.test_add_pactitioner&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_login_myfdczzxt2.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="PycharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/untitled2/case/login" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/untitled2/case/login/test_login_myfdczzxt2.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_login_myfdczzxt.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="PycharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/untitled2/case/login" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/untitled2/case/login/test_login_myfdczzxt.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.pytest in test_login_myfdczzxt2.py" />
+        <item itemvalue="Python.sqlserver" />
+        <item itemvalue="Python tests.pytest in test_login_myfdczzxt.py" />
+        <item itemvalue="Python.run_test" />
+        <item itemvalue="Python tests.pytest for test_addpractitioner.PractitionerTest.test_add_pactitioner" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8b673d2f-4d5d-4c26-8ec1-77cba1e5e4d7" name="Default Changelist" comment="" />
+      <created>1598845727189</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598845727189</updated>
+      <workItem from="1598845730261" duration="756000" />
+      <workItem from="1598853888794" duration="1893000" />
+      <workItem from="1598855803001" duration="1789000" />
+      <workItem from="1598858572186" duration="1797000" />
+      <workItem from="1598860385058" duration="1794000" />
+      <workItem from="1598862195471" duration="1804000" />
+      <workItem from="1598864012918" duration="1830000" />
+      <workItem from="1598865891518" duration="1099000" />
+      <workItem from="1598927479371" duration="1871000" />
+      <workItem from="1598931899339" duration="1061000" />
+      <workItem from="1598941880089" duration="1282000" />
+      <workItem from="1598944296589" duration="1794000" />
+      <workItem from="1598947265804" duration="1794000" />
+      <workItem from="1598949076156" duration="1796000" />
+      <workItem from="1598950886224" duration="1793000" />
+      <workItem from="1598953210185" duration="1190000" />
+      <workItem from="1599027432095" duration="1779000" />
+      <workItem from="1599029408471" duration="1629000" />
+      <workItem from="1599031371028" duration="1794000" />
+      <workItem from="1599033181261" duration="1817000" />
+      <workItem from="1599035600990" duration="1794000" />
+      <workItem from="1599037409225" duration="1795000" />
+      <workItem from="1599039220497" duration="1639000" />
+      <workItem from="1599095668518" duration="1067000" />
+      <workItem from="1599096763289" duration="1779000" />
+      <workItem from="1599099002457" duration="599000" />
+      <workItem from="1599103100024" duration="1793000" />
+      <workItem from="1599104908625" duration="888000" />
+      <workItem from="1599112622690" duration="1639000" />
+      <workItem from="1599118575943" duration="920000" />
+      <workItem from="1599121126509" duration="1793000" />
+      <workItem from="1599122946533" duration="1795000" />
+      <workItem from="1599124822869" duration="1794000" />
+      <workItem from="1599126831526" duration="454000" />
+      <workItem from="1599202368145" duration="1783000" />
+      <workItem from="1599204206496" duration="1817000" />
+      <workItem from="1599206043982" duration="1793000" />
+      <workItem from="1599207869101" duration="1719000" />
+      <workItem from="1599209898626" duration="1793000" />
+      <workItem from="1599211957497" duration="1791000" />
+      <workItem from="1599213806470" duration="249000" />
+      <workItem from="1599621090683" duration="599000" />
+      <workItem from="1599630871146" duration="625000" />
+      <workItem from="1599632859543" duration="614000" />
+      <workItem from="1599635205403" duration="1511000" />
+      <workItem from="1599637014016" duration="2058000" />
+      <workItem from="1599639092399" duration="1830000" />
+      <workItem from="1599640938018" duration="1794000" />
+      <workItem from="1599642750141" duration="1798000" />
+      <workItem from="1599644726759" duration="982000" />
+      <workItem from="1600307576237" duration="2247000" />
+      <workItem from="1600310112444" duration="1425000" />
+      <workItem from="1600321778046" duration="304000" />
+      <workItem from="1600653527892" duration="1601000" />
+      <workItem from="1600655500790" duration="893000" />
+      <workItem from="1600657312157" duration="1711000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="691" y="328" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599104669987">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="691" y="328" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1599104669987" />
+    <state x="694" y="284" key="EnvironmentVariablesDialog" timestamp="1598860427840">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="694" y="284" key="EnvironmentVariablesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598860427840" />
+    <state x="740" y="278" key="FileChooserDialogImpl" timestamp="1599031401592">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="278" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1599031401592" />
+    <state width="1877" height="371" key="GridCell.Tab.0.bottom" timestamp="1600658286705">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="371" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600658286705" />
+    <state width="1877" height="371" key="GridCell.Tab.0.center" timestamp="1600658286705">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="371" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600658286705" />
+    <state width="1877" height="371" key="GridCell.Tab.0.left" timestamp="1600658286705">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="371" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600658286705" />
+    <state width="1877" height="371" key="GridCell.Tab.0.right" timestamp="1600658286705">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="371" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600658286705" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1599204140622">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1599204140622" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1599204140622">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1599204140622" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1599204140622">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1599204140622" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1599204140622">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1599204140622" />
+    <state x="463" y="165" key="SettingsEditor" timestamp="1599212200140">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="463" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1599212200140" />
+    <state x="652" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1600657312016">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="652" y="347" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600657312016" />
+    <state x="514" y="259" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1598862055880">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="514" y="259" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1040@0.0.1920.1040" timestamp="1598862055880" />
+    <state x="623" y="225" key="search.everywhere.popup" timestamp="1598856670270">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1598856670270" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PycharmProjects$redcfg.coverage" NAME="redcfg Coverage Results" MODIFIED="1598949912108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/untitled2/config" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$pytest_in_test_login_myfdczzxt_py.coverage" NAME="pytest in test_login_myfdczzxt.py Coverage Results" MODIFIED="1600308233086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/untitled2/case/login" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$run_test.coverage" NAME="run_test Coverage Results" MODIFIED="1599645317325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/untitled3" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$pytest_in_test_savePractitioner_py.coverage" NAME="pytest in test_savePractitioner.py Coverage Results" MODIFIED="1599031053870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/untitled2/case/login" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$sqlserver__1_.coverage" NAME="sqlserver (1) Coverage Results" MODIFIED="1598861923530" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/untitled2/common" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$QQmail.coverage" NAME="QQmail Coverage Results" MODIFIED="1598932208281" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/untitled2/common" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$pytest_in_test_login_myfdczzxt2_py.coverage" NAME="pytest in test_login_myfdczzxt2.py Coverage Results" MODIFIED="1600658286696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/untitled2/case/login" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$sqlserver.coverage" NAME="sqlserver Coverage Results" MODIFIED="1600322027356" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/untitled2/common" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$mail.coverage" NAME="mail Coverage Results" MODIFIED="1598953781331" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/untitled2/common" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$pytest_for_test_addpractitioner_PractitionerTest_test_add_pactitioner.coverage" NAME="pytest for test_addpractitioner.PractitionerTest.test_add_pactitioner Coverage Results" MODIFIED="1599095828622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/untitled3/test_case" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$pytest_for_test_login_myfdczzxt2_TestLogin_test_login.coverage" NAME="pytest for test_login_myfdczzxt2.TestLogin.test_login Coverage Results" MODIFIED="1598863406565" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/untitled2/case/login" />
+  </component>
+</project>
